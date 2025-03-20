@@ -7,7 +7,7 @@ segue o link: https://github.com/jandra29/informatica/blob/main/Quem%20sou.pdf.p
 segue o link:
 ![Captura de tela 2025-03-20 204814](https://github.com/user-attachments/assets/75d85f06-bd4c-47f1-a2e5-299997fcf4fa)
 ## terceira atividade .. planilha 
-segue o link: 
+segue o link: https://github.com/jandra29/informatica/blob/main/excel.pdf  
 ![Captura de tela 2025-03-20 204930](https://github.com/user-attachments/assets/9e4189ab-bbdc-4573-a5d9-82481b34bf9a)
 ## quarta atividade .. power bi 
 segue o link:
