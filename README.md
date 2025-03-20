@@ -4,7 +4,7 @@ portifólio dos trabalhos desenvolvidos no curso GPI Fatec SJC
 segue o link: https://github.com/jandra29/informatica/blob/main/Quem%20sou.pdf.pdf
 ![Captura de tela 2025-03-20 201917](https://github.com/user-attachments/assets/dd7d73a2-787b-4ac2-9534-54a45e1a91ac)
 ## segunda atividade .. contas mensal 
-segue o link:
+segue o link: https://github.com/jandra29/informatica/blob/main/contas%20mensal.pdf
 ![Captura de tela 2025-03-20 204814](https://github.com/user-attachments/assets/75d85f06-bd4c-47f1-a2e5-299997fcf4fa)
 ## terceira atividade .. planilha 
 segue o link: https://github.com/jandra29/informatica/blob/main/excel.pdf  
