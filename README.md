@@ -10,5 +10,5 @@ segue o link:
 segue o link: https://github.com/jandra29/informatica/blob/main/excel.pdf  
 ![Captura de tela 2025-03-20 204930](https://github.com/user-attachments/assets/9e4189ab-bbdc-4573-a5d9-82481b34bf9a)
 ## quarta atividade .. power bi 
-segue o link:
+segue o link: https://github.com/jandra29/informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023.pbix
 ![Captura de tela 2025-03-20 204949](https://github.com/user-attachments/assets/ce88474b-0896-43c0-8e78-8243bdcc2f42)
